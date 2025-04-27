@@ -85,8 +85,8 @@ garbage-classification-app/
 ## 👨‍💻 Developer
 
 - **Name:** Sachin Patil
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **GitHub:** [github.com/yourgithub](https://github.com/yourgithub)
+- **Email:** m24de3067@iitj.ac.in
+- **GitHub:** https://github.com/g23ai2127/smartWasteManagementAI.git
 
 ---
 
